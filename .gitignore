@@ -34,3 +34,10 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+
+# Eclipse project file
+.project
+
+# Vagrant's runtime stuff...
+.vagrant
