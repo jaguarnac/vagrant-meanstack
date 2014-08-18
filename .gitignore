@@ -41,3 +41,6 @@ Icon
 
 # Vagrant's runtime stuff...
 .vagrant
+
+# the box itself is too large, git complains.
+meanbox.box
